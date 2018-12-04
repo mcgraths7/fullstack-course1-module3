@@ -1,0 +1,1 @@
+FOOD2FORK_KEY = '24b91aab4f4f7dfeb7c9f2f5bfc62499'
